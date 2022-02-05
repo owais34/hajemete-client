@@ -1,2 +1,2 @@
-# hajemete-client
+# hajimete-client
 Anonymous chat app frontend app made using react
